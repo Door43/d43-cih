@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cih:home|Door43 (cih)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cih|d43-cih repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cih/archive/master.zip|d43-cih.zip]]
+
+**Recent Changes**
+{{changes>ns = cih}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cih|Ethnologue data]]
+
